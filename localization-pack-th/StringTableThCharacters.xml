@@ -1,8 +1,8 @@
 <Database>
-    <GameDBStringTable ID="LOC_EN_CHARACTERS">
+    <GameDBStringTable ID="LOC_TH_CHARACTERS">
         
         <LanguageCode>th</LanguageCode>
-        <LanguageNameLocalized>Thai</LanguageNameLocalized>
+        <LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
 
         <Contributors>
             <Name>Sireethon</Name>
