@@ -93,7 +93,7 @@
             <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_ORANGE</LocID>                    <Text>Colored tiles</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_COLORED_HALF_WHITE</LocID>        <Text>Colored tiles and white wall</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_COLORED_HALF</LocID>              <Text>Colored tiles and wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_WC</LocID>                                <Text>Restroom wall</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_WC</LocID>                                <Text>ผนังห้องน้ำ</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>WALL_TYPE_GREEN</LocID>                             <Text>Colored wall</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WALL_TYPE_LINE</LocID>                              <Text>Middle colored stripe</Text>  </GameDBLocalizedString>
@@ -105,38 +105,38 @@
             <GameDBLocalizedString>      <LocID>WALL_TYPE_UPPER_HALF</LocID>                        <Text>Top colored wall</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WALL_TYPE_LINE_ORANGE</LocID>                       <Text>Colored wall with white stripe</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WALL_TYPE_WOOND_PANELING_ORANGE</LocID>             <Text>Fancy wood with stripe</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_TEST</LocID>                           	<Text>Don't use</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_TEST</LocID>                           	<Text>ห้ามใช้</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>WINDOW_DEFAULT</LocID>                              <Text>Window with blinds</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WINDOW_TALL</LocID>                                 <Text>Tall window</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>GLASS_WALL_DOUBLELINES</LocID>                      <Text>Glass wall</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WINDOW_TALL</LocID>                                 <Text>หน้าต่างทรงสูง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GLASS_WALL_DOUBLELINES</LocID>                      <Text>ผนังกระจก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WINDOW_FLAT</LocID>                                 <Text>Watch window</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>GLASS_WALL_COLOR</LocID>                            <Text>Glass wall</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GLASS_WALL_COLOR</LocID>                            <Text>ผนังกระจก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WINDOW_GLASS_TALL</LocID>                           <Text>Glass tall</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WINDOW_GLASS_SMALL</LocID>                          <Text>Glass small</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>DOOR_DEFAULT</LocID>                                <Text>White door</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_DEFAULT</LocID>                                <Text>ประตูสีขาว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOOR_WINDOW</LocID>                                 <Text>Door with window</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_XRAY</LocID>                                   <Text>X-ray door</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_XRAY</LocID>                                   <Text>ประตู X-ray</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_XRAY</LocID>                            <Text>Double X-ray door</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_WC</LocID>                                     <Text>WC door</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_WC</LocID>                                     <Text>ประตูห้องน้ำ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOOR_DOUBLE</LocID>                                 <Text>Double door with windows</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_SLIDING</LocID>                         <Text>Sliding double door</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_SLIDING</LocID>                         <Text>ประตูบานเลื่อนคู่</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOOR_TALL_WINDOW_SINGLE</LocID>                     <Text>Door with window</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_WINDOW</LocID>                     		<Text>Double door with windows</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_GLASS</LocID>                     				<Text>Glass door</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_GLASS</LocID>                     		<Text>Double glass door</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_GLASS</LocID>                     				<Text>ประตูกระจก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_GLASS</LocID>                     		<Text>ประตูกระจกคู่</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOOR_RESTRICTED</LocID>                     		<Text>Restricted area</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOOR_RESTRICTED_DOUBLE</LocID>                     	<Text>Restricted area, double door</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_ELEVATOR</LocID>                     	<Text>Metal sliding doors</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING</LocID>                           <Text>Waiting room</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING</LocID>                           <Text>ห้องรับรอง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING_DESCRIPTION</LocID>               <Text>Waiting rooms should be placed within reach of each office, lab and radiology room.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_DOCTORS_OFFICE</LocID>                    <Text>Doctor's office</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_DOCTORS_OFFICE_DESCRIPTION</LocID>        <Text>Basic clinical office for simple examinations and treatments. Staff requirements:\n1x Doctor</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM</LocID>                       <Text>Common room</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM_DESCRIPTION</LocID>           <Text>The common room is the place for hospital staff to rest, study and eat.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_RECEPTION</LocID>                         <Text>Reception</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_RECEPTION</LocID>                         <Text>ประชาสัมพันธ์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_RECEPTION_DESCRIPTION</LocID>             <Text>The reception ensures that patients get triaged correctly upon arrival, so patients with high risk get prioritized during their visit.\n\nMin. Staff requirements: \n1x Nurse - Receptionist</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CORRIDOR</LocID>                          <Text>Corridor</Text>   </GameDBLocalizedString>
@@ -155,18 +155,18 @@
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_NE</LocID>                       <Text>Neurology Lab</Text>  </GameDBLocalizedString> <!-- Lab at Neourology -->
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_NE_DESCRIPTION</LocID>           <Text>The neurology laboratory provides a wide variety of tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM</LocID>                        <Text>X-ray room</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM</LocID>                        <Text>ห้อง X-ray</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM_DESCRIPTION</LocID>            <Text>The X-ray room provides X-ray imaging of different parts of human body, depicting structures beneath the skin and muscles.\n\nMin. Staff requirements: \n1x Technologist - Radiologist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM</LocID>                           <Text>CT room</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM</LocID>                           <Text>ห้อง CT</Text>    </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM_DESCRIPTION</LocID>               <Text>CT, short for 'Computed tomography', is a sophisticated x-ray imaging technique for creating high resolution images. \n\nMin. Staff requirements: \n1x Technologist - Radiologist</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM</LocID>                          <Text>MRI room</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM</LocID>                          <Text>ห้อง MRI</Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM_DESCRIPTION</LocID>              <Text>Magnetic resonance imaging creates detailed images of the body using magnetic field and radio waves technique. \n\nMin. Staff requirements: \n1x Technologist - Radiologist</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM</LocID>                  <Text>CAG room</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM</LocID>                  <Text>ห้อง CAG</Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM_DESCRIPTION</LocID>      <Text>Coronary angiography is a medical technique also called arteriography that visualizes blood vessels and organs of the body. \n\nMin. Staff requirements: \n1x Technologist - Radiologist</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ER_OBSERVATION_ROOM</LocID>               <Text>Observation room</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ER_OBSERVATION_ROOM_DESCRIPTION</LocID>   <Text>Many various examinations can be done here, patients are under proper medical supervision. \n\nMin. Staff requirements: \n1x Doctor \n(Personnel based in On-call room)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC</LocID>      			                <Text>Restroom</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC</LocID>      			                <Text>ห้องน้ำ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC_DESCRIPTION</LocID>      			    <Text>Room where even a queen must walk. \n\nMin. Staff requirements: \nNone</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CLEANING_CLOSET</LocID>                   <Text>Cleaning closet</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CLEANING_CLOSET_DESCRIPTION</LocID>       <Text>Cleaning closet stores all mandatory equipment for janitors. \n\nMin.</Text>  </GameDBLocalizedString>
@@ -290,7 +290,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_TRASH_BIN_02</LocID>                         <Text>ถังขยะ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_TRASH_BIN_02_DESCRIPTION</LocID>             <Text>ของตกแต่ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_QUEUE_MACHINE</LocID>                        <Text>เครื่องกดบัตรคิว</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_QUEUE_MACHINE_DESCRIPTION</LocID>            <Text>Queue machine works together with one or more info TVs. In a waiting room this system provides smoother patient flow to adjacent rooms.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_QUEUE_MACHINE_DESCRIPTION</LocID>            <Text>เครื่องกดบัตรคิวทำงานร่วมกับ Info TV อย่างน้อยหนึ่งเครื่อง ในห้องรับรองการจัดคิวนี้จะช่วยจัดคิวผู้ป่วยได้อย่างราบรื่น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_FRIDGE</LocID>                               <Text>ตู้เย็น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_FRIDGE_DESCRIPTION</LocID>                   <Text>ตู้เย็นใส่อาหารสำหรับพนักงาน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LOCKER</LocID>                               <Text>ล็อกเกอร์</Text>  </GameDBLocalizedString>
@@ -300,9 +300,9 @@
             <GameDBLocalizedString>      <LocID>OBJECT_CARD_FILE_SMALL</LocID>                      <Text>Small card file</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CARD_FILE_SMALL_DESCRIPTION</LocID>          <Text>ของตกแต่ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SHELF</LocID>                                <Text>ชั้นวางของ</Text>  </GameDBLocalizedString>
-            <!-- IPDATE --><GameDBLocalizedString>      <LocID>OBJECT_SHELF_DESCRIPTION</LocID>     <Text>A shelf creates a workspace and stores all needed equipment for one janitor.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOOKCASE</LocID>                             <Text>Bookcase</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOOKCASE_DESCRIPTION</LocID>                 <Text>Bookcase with medical journals lets staff study and improve in their spare time.</Text>  </GameDBLocalizedString>
+            <!-- IPDATE --><GameDBLocalizedString>      <LocID>OBJECT_SHELF_DESCRIPTION</LocID>     <Text>ชั้นวางของสร้างพื้นที่ทำงานและจัดเก็บอุปกรณ์ที่จำเป็นทั้งหมดสำหรับภารโรงหนึ่งคน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_BOOKCASE</LocID>                             <Text>ตู้หนังสือ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_BOOKCASE_DESCRIPTION</LocID>                 <Text>ตู้หนังสือที่มีวารสารทางการแพทย์ช่วยให้เจ้าหน้าที่สามารถศึกษาและปรับปรุงแก้ไขในเวลาว่างได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_VENDING_MACHINE</LocID>                      <Text>ตู้หยอดเหรียญ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_VENDING_MACHINE_DESCRIPTION</LocID>          <Text>ตู้จำหน่ายอาหารอัตโนมัติสำหรับผู้ป่วยและพนักงาน ขนมที่ขายให้กับผู้ป่วยเป็นแหล่งรายได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_STANDING_LAMP</LocID>                        <Text>Examination lamp</Text>  </GameDBLocalizedString>
@@ -334,11 +334,11 @@
             <GameDBLocalizedString>      <LocID>OBJECT_EYE_TEST</LocID>                             <Text>Eye test</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_EYE_TEST_DESCRIPTION</LocID>                 <Text>Mandatory wall-mounted equipment for offices.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_XRAY_VIEWER</LocID>                          <Text>X-ray viewer</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_XRAY_VIEWER_DESCRIPTION</LocID>              <Text>X-ray viewer for examining X-ray images.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_XRAY_CONTROL_PANEL</LocID>                   <Text>X-ray control panel</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_XRAY_CONTROL_PANEL_DESCRIPTION</LocID>       <Text>Control panel for the X-ray machine.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET</LocID>                    <Text>Equipment cabinet</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_DESCRIPTION</LocID>        <Text>Mandatory equipment for all rooms where examinations and treatment procedures take place.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_XRAY_VIEWER_DESCRIPTION</LocID>              <Text>X-ray viewer สำหรับการตรวจสอบภาพเอ็กซ์เรย์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_XRAY_CONTROL_PANEL</LocID>                   <Text>แผงควบคุม X-ray</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_XRAY_CONTROL_PANEL_DESCRIPTION</LocID>       <Text>แผงควบคุมสำหรับเครื่อง X-ray</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET</LocID>                    <Text>ตู้อุปกรณ์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_DESCRIPTION</LocID>        <Text>อุปกรณ์บังคับสำหรับทุกห้องที่มีการตรวจและขั้นตอนการรักษา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_WALL</LocID>               <Text>Wall-mounted equipment</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_WALL_DESCRIPTION</LocID>   <Text>Mandatory equipment for all rooms where examinations and treatment procedures take place.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_RECEPTION_DESK_LEFT</LocID>                  <Text>Reception desk left</Text>  </GameDBLocalizedString>
@@ -349,46 +349,46 @@
             <GameDBLocalizedString>      <LocID>OBJECT_RECEPTION_DESK_RIGHT_DESCRIPTION</LocID>     <Text>Mandatory equipment for receptions. A PC placed on top will create a workspace for one receptionist nurse.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_SINK</LocID>                             <Text>Lab sink</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_SINK_DESCRIPTION</LocID>                 <Text>Mandatory equipment for labs, it is used to wash laboratory glassware.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ACCUSCOPE</LocID>                            <Text>Microscope</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ACCUSCOPE_DESCRIPTION</LocID>                <Text>Microscope is mandatory equipment of labs. It is used to analyze a wide range of microbiological cultivations.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TRASH_BIN_03</LocID>                         <Text>Biohazard trash bin</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TRASH_BIN_03_DESCRIPTION</LocID>             <Text>Trash bin for safe disposal of biological material.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LAB_SHELF</LocID>                            <Text>Lab shelf</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LAB_SHELF_DESCRIPTION</LocID>                <Text>A decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT</LocID>                        <Text>Glassware</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT_DESCRIPTION</LocID>            <Text>Mandatory equipment of labs, it is used to prepare different samples. </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_HEMATOLOGY_ANALYZER</LocID>                  <Text>Hematology analyzer</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_HEMATOLOGY_ANALYZER_DESCRIPTION</LocID>      <Text>Mandatory equipment of labs. It provides a wide spectrum of blood sample analysis methods.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ULTRACENTRIFUGE</LocID>                      <Text>Medical centrifuge</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ULTRACENTRIFUGE_DESCRIPTION</LocID>          <Text>Mandatory equipment of labs, used for preparing blood samples in different tests.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ACCUSCOPE</LocID>                            <Text>กล้องจุลทรรศน์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ACCUSCOPE_DESCRIPTION</LocID>                <Text>กล้องจุลทรรศน์เป็นอุปกรณ์บังคับของห้องปฏิบัติการ ใช้เพื่อวิเคราะห์ลักษณะทางจุลชีววิทยาที่หลากหลาย</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TRASH_BIN_03</LocID>                         <Text>ถังขยะอันตรายทางชีวภาพ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TRASH_BIN_03_DESCRIPTION</LocID>             <Text>ถังขยะชีวภาพสำหรับการกำจัดวัสดุชีวภาพอย่างปลอดภัย ถังขยะอันตราย</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_SHELF</LocID>                            <Text>ชั้นวางของห้องปฏิบัติการ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_SHELF_DESCRIPTION</LocID>                <Text>ของตกแต่ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT</LocID>                        <Text>เครื่องแก้ววัดปริมาตร</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT_DESCRIPTION</LocID>            <Text>อุปกรณ์บังคับของห้องปฏิบัติการ ใช้ในการเตรียมตัวอย่างที่แตกต่างกัน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_HEMATOLOGY_ANALYZER</LocID>                  <Text>เครื่องวิเคราะห์โลหิตวิทยา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_HEMATOLOGY_ANALYZER_DESCRIPTION</LocID>      <Text>อุปกรณ์บังคับของห้องปฏิบัติการ ใช้ในการวิเคราะห์ตัวอย่างเลือดที่หลากหลาย</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ULTRACENTRIFUGE</LocID>                      <Text>เครื่องหมุนเหวี่ยงทางการแพทย์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ULTRACENTRIFUGE_DESCRIPTION</LocID>          <Text>อุปกรณ์บังคับของห้องปฏิบัติการ ใช้ในการเตรียมตัวอย่างเลือดในการทดสอบต่าง ๆ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_RIA</LocID>              		            <Text>RIA</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_RIA_DESCRIPTION</LocID>              		<Text>RIA or Radio-immunoassay is mandatory equipment of labs, it measures different antigen concentrations.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_STAT_LAB_FRIDGE</LocID>              		<Text>Sample storage</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_STAT_LAB_FRIDGE_DESCRIPTION</LocID>          <Text>Sample storage is used for storing various biological samples.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TREE</LocID>                                 <Text>Tree</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TREE_DESCRIPTION</LocID>                     <Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_STREET_LAMP</LocID>                          <Text>Street lamp</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_STREET_LAMP_DESCRIPTION</LocID>              <Text>An outdoor decoration and source of light.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TREE_SMALL</LocID>                           <Text>Tree - small</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TREE_SMALL_DESCRIPTION</LocID>               <Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_THUYA</LocID>              		            <Text>Tree - thuya</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_THUYA_DESCRIPTION</LocID>              		<Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BUSH_MEDIUM</LocID>                          <Text>Medium bush</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BUSH_MEDIUM_DESCRIPTION</LocID>              <Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ROOF_VENT</LocID>                          	<Text>Roof ventilation</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ROOF_VENT_DESCRIPTION</LocID>                <Text>A roof decoration.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_RIA_DESCRIPTION</LocID>              		<Text>RIA หรือ Radio-immunoassay เป็นอุปกรณ์บังคับของห้องปฏิบัติการ โดยจะวัดความเข้มข้นของแอนติเจนที่แตกต่างกัน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_STAT_LAB_FRIDGE</LocID>              		<Text>ตัวจัดเก็บตัวอย่าง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_STAT_LAB_FRIDGE_DESCRIPTION</LocID>          <Text>ตัวจัดเก็บตัวอย่างใช้สำหรับเก็บตัวอย่างทางชีววิทยาต่าง ๆ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TREE</LocID>                                 <Text>ต้นไม้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TREE_DESCRIPTION</LocID>                     <Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_STREET_LAMP</LocID>                          <Text>ไฟถนน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_STREET_LAMP_DESCRIPTION</LocID>              <Text>ของตกแต่งกลางแจ้งและเป็นแหล่งกำเนิดแสง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TREE_SMALL</LocID>                           <Text>ต้นไม้ - เล็ก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TREE_SMALL_DESCRIPTION</LocID>               <Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_THUYA</LocID>              		            <Text>ต้นไม้ - ธูยา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_THUYA_DESCRIPTION</LocID>              		<Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_BUSH_MEDIUM</LocID>                          <Text>พุ่มไม้ขนาดกลาง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_BUSH_MEDIUM_DESCRIPTION</LocID>              <Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ROOF_VENT</LocID>                          	<Text>ที่ระบายอากาศที่หลังคา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ROOF_VENT_DESCRIPTION</LocID>                <Text>ของตกแต่งหลังคา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ROOF_AIRCOND</LocID>                         <Text>Roof AC unit</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ROOF_AIRCOND_DESCRIPTION</LocID>             <Text>A roof decoration.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ROOF_AIRCOND_DESCRIPTION</LocID>             <Text>ของตกแต่งหลังคา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CABINET_MOBILE</LocID>                       <Text>Mobile cabinet</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_CABINET_MOBILE_DESCRIPTION</LocID>           <Text>A decoration, other objects can be placed on top.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DEZINFECTION</LocID>                         <Text>Disinfectant dispenser</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DEZINFECTION_DESCRIPTION</LocID>             <Text>Automatic disinfectant dispenser can substitute a sink.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_EXAM_LAMP_ROOF</LocID>                       <Text>Medical light</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_EXAM_LAMP_ROOF_DESCRIPTION</LocID>           <Text>Ceiling-mounted examination medical light.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_CABINET_BEDSIDE</LocID>                      <Text>Bedside cabinet</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_CABINET_BEDSIDE_DESCRIPTION</LocID>          <Text>Bedside cabinet can be attached to hospital bed.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_CABINET_MOBILE_DESCRIPTION</LocID>           <Text>ของตกแต่ง สามารถวางวัตถุอื่น ๆ ไว้ด้านบนได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DEZINFECTION</LocID>                         <Text>เครื่องจ่ายยาฆ่าเชื้อ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DEZINFECTION_DESCRIPTION</LocID>             <Text>เครื่องจ่ายน้ำยาฆ่าเชื้ออัตโนมัติสามารถใช้แทนอ่างล้างมือได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_EXAM_LAMP_ROOF</LocID>                       <Text>โคมไฟทางการแพทย์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_EXAM_LAMP_ROOF_DESCRIPTION</LocID>           <Text>โคมไฟทางการแพทย์แบบติดเพดาน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_CABINET_BEDSIDE</LocID>                      <Text>ตู้ข้างเตียง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_CABINET_BEDSIDE_DESCRIPTION</LocID>          <Text>ตู้ข้างเตียงสามารถวางข้างเตียงในโรงพยาบาลได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PLASTIC_HAMPER</LocID>                       <Text>Plastic hamper</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_PLASTIC_HAMPER_DESCRIPTION</LocID>           <Text>A decoration.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_PLASTIC_HAMPER_DESCRIPTION</LocID>           <Text>ของแตกแต่ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_BED_SOCKET</LocID>                       	<Text>Bed socket</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_BED_SOCKET_DESCRIPTION</LocID>           	<Text>Bed socket can be attached to hospital bed.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PRIVACY_SCREEN</LocID>                       <Text>Privacy screen</Text>  </GameDBLocalizedString>
@@ -420,12 +420,12 @@
             <GameDBLocalizedString>      <LocID>OBJECT_STAND_STAINLESS</LocID>                   	<Text>Stainless steel stand</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_STAND_STAINLESS_DESCRIPTION</LocID>       	<Text>Stainless steel stand provides space for various equipment that can be placed on top.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_NOTICE_BOARD</LocID>                   		<Text>Notice board</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_NOTICE_BOARD_DESCRIPTION</LocID>       		<Text>A decoration.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_NOTICE_BOARD_DESCRIPTION</LocID>       		<Text>ของตกแต่ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_INFO_BOARD</LocID>                   		<Text>Info board</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_INFO_BOARD_DESCRIPTION</LocID>       		<Text>A decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_OXYGEN_TANK</LocID>                   		<Text>Oxygen tank</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_OXYGEN_TANK_DESCRIPTION</LocID>       		<Text>A decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_MECHANICAL_VENTILATOR</LocID>                <Text>Mechanical ventilator</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_INFO_BOARD_DESCRIPTION</LocID>       		<Text>ของตกแต่ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_OXYGEN_TANK</LocID>                   		<Text>ถังอ็อกซิเจน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_OXYGEN_TANK_DESCRIPTION</LocID>       		<Text>ของตกแต่ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_MECHANICAL_VENTILATOR</LocID>                <Text>เครื่องช่วยหายใจ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MECHANICAL_VENTILATOR_DESCRIPTION</LocID>    <Text>Mechanical ventilator provides artificial ventilation to patients.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT2</LocID>                       <Text>Glassware small</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT2_DESCRIPTION</LocID>           <Text>Glassware is mandatory equipment of labs, it is used to prepare different samples. </Text>  </GameDBLocalizedString>
@@ -455,40 +455,40 @@
             <GameDBLocalizedString>      <LocID>OBJECT_SCRUBBING_SINK_DESCRIPTION</LocID>   		<Text>Scrubbing sink is essential mandatory equipment used for pre-surgical preparations.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SCRUBS_SHELF_TALL</LocID>               		<Text>Scrubs shelf tall</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SCRUBS_SHELF_TALL_DESCRIPTION</LocID>   		<Text>Scrubs shelf contains special surgical clothes and suits.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TRASH_BIN_04</LocID>                         <Text>Biohazard trash bin</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TRASH_BIN_04_DESCRIPTION</LocID>             <Text>Trash bin for safe disposal of biological material.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TRASH_BIN_04</LocID>                         <Text>ถังขยะอันตรายทางชีวภาพ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TRASH_BIN_04_DESCRIPTION</LocID>             <Text>ถังขยะสำหรับทิ้งวัสดุชีวภาพอย่างปลอดภัย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ROOF_SATELITE</LocID>                        <Text>Roof satellite</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ROOF_SATELITE_DESCRIPTION</LocID>            <Text>A roof decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_FENCE_IRON</LocID>                         	<Text>Iron fence</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_FENCE_IRON_DESCRIPTION</LocID>             	<Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_FENCE_GLASS</LocID>                         	<Text>Glass fence</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_FENCE_GLASS_DESCRIPTION</LocID>             	<Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_FENCE_ROPE</LocID>                         	<Text>Rope fence</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_FENCE_ROPE_DESCRIPTION</LocID>             	<Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_FOUNTAIN</LocID>                         	<Text>Fountain</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_FOUNTAIN_DESCRIPTION</LocID>             	<Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_OUTSIDE_TRASH_BIN</LocID>                    <Text>Outside trash bin</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_OUTSIDE_TRASH_BIN_DESCRIPTION</LocID>        <Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_SIGN_HOSPITAL</LocID>                        <Text>Hospital sign</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_SIGN_HOSPITAL_DESCRIPTION</LocID>            <Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_SIGN_CROSSWALK</LocID>                       <Text>Pedestrian crossing sign</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_SIGN_CROSSWALK_DESCRIPTION</LocID>           <Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TREE_TALL</LocID>                        	<Text>Tall tree</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TREE_TALL_DESCRIPTION</LocID>            	<Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TREE_YOUNG</LocID>                        	<Text>Young tree</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TREE_YOUNG_DESCRIPTION</LocID>            	<Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_CONCRETE_FLOWER_POT</LocID>                  <Text>Flower pot</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_CONCRETE_FLOWER_POT_DESCRIPTION</LocID>      <Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_WOODEN_FLOWER_POT</LocID>                    <Text>Flower pot</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_WOODEN_FLOWER_POT_DESCRIPTION</LocID>        <Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ROOF_SATELITE_DESCRIPTION</LocID>            <Text>ของตกแต่งหลังคา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_FENCE_IRON</LocID>                         	<Text>รั้วเหล็ก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_FENCE_IRON_DESCRIPTION</LocID>             	<Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_FENCE_GLASS</LocID>                         	<Text>รั้วกระจก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_FENCE_GLASS_DESCRIPTION</LocID>             	<Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_FENCE_ROPE</LocID>                         	<Text>รั้วเชือก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_FENCE_ROPE_DESCRIPTION</LocID>             	<Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_FOUNTAIN</LocID>                         	<Text>น้ำพุ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_FOUNTAIN_DESCRIPTION</LocID>             	<Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_OUTSIDE_TRASH_BIN</LocID>                    <Text>ถังขยะด้านนอก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_OUTSIDE_TRASH_BIN_DESCRIPTION</LocID>        <Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_SIGN_HOSPITAL</LocID>                        <Text>ป้ายโรงพยาบาล</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_SIGN_HOSPITAL_DESCRIPTION</LocID>            <Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_SIGN_CROSSWALK</LocID>                       <Text>ป้ายทางม้าลาย</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_SIGN_CROSSWALK_DESCRIPTION</LocID>           <Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TREE_TALL</LocID>                        	<Text>ต้นไม้สูง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TREE_TALL_DESCRIPTION</LocID>            	<Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TREE_YOUNG</LocID>                        	<Text>ต้นไม้เล็ก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TREE_YOUNG_DESCRIPTION</LocID>            	<Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_CONCRETE_FLOWER_POT</LocID>                  <Text>กระถางดอกไม้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_CONCRETE_FLOWER_POT_DESCRIPTION</LocID>      <Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_WOODEN_FLOWER_POT</LocID>                    <Text>กระถางดอกไม้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_WOODEN_FLOWER_POT_DESCRIPTION</LocID>        <Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_HEDGE</LocID>                         		<Text>Hedge</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_HEDGE_DESCRIPTION</LocID>             		<Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_HEDGE_DESCRIPTION</LocID>             		<Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_FLOWERS_SMALL</LocID>                        <Text>Small flowers</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_FLOWERS_SMALL_DESCRIPTION</LocID>            <Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_FLOWERS_SMALL_DESCRIPTION</LocID>            <Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_FLOWERS_TALL</LocID>                         <Text>Tall flowers</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_FLOWERS_TALL_DESCRIPTION</LocID>             <Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BUSH</LocID>                         		<Text>Bush</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BUSH_DESCRIPTION</LocID>             		<Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_FLOWERS_TALL_DESCRIPTION</LocID>             <Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_BUSH</LocID>                         		<Text>พุ่มไม้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_BUSH_DESCRIPTION</LocID>             		<Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ULTRASONOGRAPH</LocID>                       <Text>USG</Text>     </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ULTRASONOGRAPH_DESCRIPTION</LocID>           <Text>Ultrasonograph is mandatory equipment for Diagnostic sonography unit.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DIALISIS</LocID>                         	<Text>Dialysis machine</Text>  </GameDBLocalizedString>
@@ -531,114 +531,114 @@
             <GameDBLocalizedString>      <LocID>OBJECT_OPHTHALMIC_EQUIPMENT_DESCRIPTION</LocID>     <Text>A set of instruments for different eye tests.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_SIMPLE_CROSS</LocID>       			<Text>Cross</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_SIMPLE_CROSS_DESCRIPTION</LocID>       <Text>Wall decal.\nNote: Red cross is a protected symbol of The Red Cross (ICRC) and can't be included.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_SIMPLE_CROSS_DESCRIPTION</LocID>       <Text>สติ๊กเกอร์ติดผนัง\nหมายเหตุ: กากบาทสีแดงเป็นสัญลักษณ์ที่ได้รับการคุ้มครองของกาชาด (ICRC) และไม่สามารถนำมาใช้ได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_MED_CROSS</LocID>       			    <Text>Medical cross</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ARROW_L</LocID>       			        <Text>Left arrow</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ARROW_R</LocID>       			        <Text>Right arrow</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_0</LocID>       			    <Text>Number 0</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_1</LocID>       			    <Text>Number 1</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_2</LocID>       			    <Text>Number 2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_3</LocID>       			    <Text>Number 3</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_4</LocID>       			    <Text>Number 4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_5</LocID>       			    <Text>Number 5</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_6</LocID>       			    <Text>Number 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_7</LocID>       			    <Text>Number 7</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_8</LocID>       			    <Text>Number 8</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_9</LocID>       			    <Text>Number 9</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_ER</LocID>       			        <Text>Emergency</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_ICU</LocID>       			        <Text>ICU</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_IM</LocID>       			        <Text>Internal medicine</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_GS</LocID>       			        <Text>General surgery</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_OT</LocID>       			        <Text>Orthopaedy</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_NE</LocID>       			        <Text>Neurology</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_CAR</LocID>       			        <Text>Cardiology</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_RAD</LocID>       			        <Text>Radiology</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ARROW_L</LocID>       			        <Text>ลูกศรซ้าย</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ARROW_R</LocID>       			        <Text>ลูกศรขวา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_0</LocID>       			    <Text>เลข 0</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_1</LocID>       			    <Text>เลขr 1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_2</LocID>       			    <Text>เลข 2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_3</LocID>       			    <Text>เลข 3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_4</LocID>       			    <Text>เลข 4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_5</LocID>       			    <Text>เลข 5</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_6</LocID>       			    <Text>เลข 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_7</LocID>       			    <Text>เลข 7</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_8</LocID>       			    <Text>เลข 8</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_9</LocID>       			    <Text>เลข 9</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_ER</LocID>       			        <Text>ฉุกเฉิน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_ICU</LocID>       			        <Text>ผู้ป่วยหนัก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_IM</LocID>       			        <Text>อายุรศาสตร์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_GS</LocID>       			        <Text>ศัลยกรรมทั่วไป</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_OT</LocID>       			        <Text>ศัลยกรรมกระดูก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_NE</LocID>       			        <Text>ประสาทวิทยา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_CAR</LocID>       			        <Text>อายุรศาสตร์โรคหัวใจ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_RAD</LocID>       			        <Text>รังสีวิทยา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_GP</LocID>       			        <Text>Doctor's office</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_WAIT</LocID>       			    <Text>Waiting room</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_WAIT</LocID>       			    <Text>ห้องรับรอง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_STAT_LAB</LocID>       			<Text>Stat Lab</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_RECEPTION</LocID>       			<Text>Reception</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_RECEPTION</LocID>       			<Text>ประชาสัมพันธ์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_CLEANING</LocID>       			<Text>Cleaning closet</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_WC</LocID>       			        <Text>Restroom</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_OPERATING</LocID>       			<Text>Operating room</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_WC</LocID>       			        <Text>ห้องน้ำ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_OPERATING</LocID>       			<Text>ห้องผ่าตัด</Text>  </GameDBLocalizedString>
             <!--UPDATED--><GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_NEURODIAGNOSTIC</LocID>       	<Text>Neuroexam unit</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_XRAY</LocID>       			    <Text>X-ray</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_COMMON</LocID>       			    <Text>Common room</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_COMMON</LocID>       			    <Text>ห้องส่วนกลาง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_INPATIENT_WARD</LocID>       			<Text>Observation unit</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_ONCALL</LocID>       			    <Text>On-call room</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NURSES_STATION</LocID>       			<Text>Nurses station</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_CT</LocID>       			        <Text>CT</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_INPATIENT_OFFICE</LocID>       		<Text>Diagnostic unit</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_SONOGRAPHY_UNIT</LocID>       			<Text>Sonography unit</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_CORRIDOR</LocID>       			    <Text>Corridor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_CORRIDOR</LocID>       			    <Text>ทางเดิน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_CARDIOVASCULAR_UNIT</LocID>       		<Text>Cardiography unit</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_OBSERVATION</LocID>       		<Text>Regular ward</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_HIGH_PRIORITY</LocID>       			<Text>High dependency unit</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ANGIOGRAPHY</LocID>       			    <Text>Angiography</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_MRI</LocID>       			            <Text>MRI</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECALS_DESCRIPTION</LocID>       			<Text>Wall decal.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECALS_DESCRIPTION</LocID>       			<Text>สติ๊กเกอร์ติดผนัง</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_ELEVATOR</LocID>                      <Text>Elevator</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_ELEVATOR_DESCRIPTION</LocID>          <Text>Note: when built, elevator gets automatically placed on all floors.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_ELEVATOR</LocID>                      <Text>ลิฟต์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_ELEVATOR_DESCRIPTION</LocID>          <Text>หมายเหตุ: เมื่อสร้างลิฟต์จะถูกวางโดยอัตโนมัติในทุกชั้น</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>OBJECT_PILLAR_DEFAULT</LocID>                       <Text>Wide pillar</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PILLAR_DEFAULT_DESCRIPTION</LocID>           <Text>Objects that need to be attached to walls can be also attached to pillars.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PILLAR_CIRCLE_BIG</LocID>                    <Text>Round pillar</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PILLAR_CIRCLE_BIG_DESCRIPTION</LocID>        <Text>Objects that need to be attached to walls can be also attached to pillars.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_DINING_TABLE</LocID>               <Text>Dining table</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_DINING_TABLE</LocID>               <Text>โต๊ะอาหาร</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_DINING_TABLE_DESCRIPTION</LocID>   <Text>Chairs can be attached to dining tables. This is the place where staff eat their meals.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_CAMP_BED</LocID>                   <Text>Exam table</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_CAMP_BED_DESCRIPTION</LocID>       <Text>Examination table is mandatory equipment for various offices and units, most examinations are performed here.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_BENCH</LocID>                      <Text>Bench</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_BENCH</LocID>                      <Text>ม้านั่ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_BENCH_DESCRIPTION</LocID>          <Text>Bench provides two seats for patients in waiting rooms or at the reception.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_SOFA</LocID>                       <Text>Sofa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_SOFA</LocID>                       <Text>โซฟา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_SOFA_DESCRIPTION</LocID>           <Text>Sofa can be placed in common rooms or offices and is used by staff to relax, read books and enjoy their spare time.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_DRESSING_SCREEN</LocID>            <Text>Dressing Screen</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_DRESSING_SCREEN_DESCRIPTION</LocID><Text>A decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK</LocID>                <Text>Office desk</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_DRESSING_SCREEN_DESCRIPTION</LocID><Text>ของตกแต่ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK</LocID>                <Text>โต๊ะทำงาน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK_DESCRIPTION</LocID>    <Text>Office desk is mandatory equipment of for various offices and rooms. PC placed on top creates a workspace for one employee. </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_LAB_DESK</LocID>                   <Text>Lab desk</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_LAB_DESK</LocID>                   <Text>โต๊ะปฏิบัติการ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_LAB_DESK_DESCRIPTION</LocID>       <Text>Lab desk is mandatory equipment of labs, used as support for most of the laboratory instruments.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_BASIC_BED</LocID>                  <Text>Hospital bed</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_BASIC_BED</LocID>                  <Text>เตียงโรงพยาบาล</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_BASIC_BED_DESCRIPTION</LocID>      <Text>Basic hospital bed suitable for various inpatient wards.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_MODERN_BED</LocID>                 <Text>Modern hospital bed</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_MODERN_BED</LocID>                 <Text>เตียงโรงพยาบาลโมเดิร์น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_MODERN_BED_DESCRIPTION</LocID>     <Text>Modern hospital bed provides more comfort for patients.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_STRETCHER</LocID>       			<Text>Stretcher</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_STRETCHER</LocID>       			<Text>เปล</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_STRETCHER_DESCRIPTION</LocID>      <Text>A stretcher used to transport immobile patients.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OPERATING_TABLE</LocID>       		<Text>Operating table</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OPERATING_TABLE_DESCRIPTION</LocID><Text>Mandatory equipment for all operating rooms.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK2</LocID>               <Text>Office desk</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK2</LocID>               <Text>โต๊ะทำงาน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK2_DESCRIPTION</LocID>   <Text>Office desk is mandatory equipment for various offices and rooms. PC placed on top creates a workspace for one employee. </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OUTSIDE_BENCH</LocID>              <Text>Outdoor bench</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OUTSIDE_BENCH_DESCRIPTION</LocID>  <Text>An outdoor decoration.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_AMBULANCE_01</LocID>               <Text>Ambulance</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OUTSIDE_BENCH</LocID>              <Text>ม้านั่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OUTSIDE_BENCH_DESCRIPTION</LocID>  <Text>ของตกแต่งกลางแจ้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_AMBULANCE_01</LocID>               <Text>รถพยาบาล</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_AMBULANCE_01_DESCRIPTION</LocID>   <Text>Purchasing an ambulance gives access to challenging critical cases.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_XRAY</LocID>                          <Text>X-ray</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_XRAY_DESCRIPTION</LocID>              <Text>X-ray machine is mandatory equipment for X-ray rooms. Needs to be controlled by an X-ray control panel, placed in the same room.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_XRAY_DESCRIPTION</LocID>              <Text>เครื่องเอกซเรย์เป็นอุปกรณ์บังคับสำหรับห้องเอกซเรย์ จำเป็นต้องควบคุมโดยแผงควบคุม X-ray ซึ่งวางไว้ในห้องเดียวกัน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_CT</LocID>                            <Text>CT</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_CT_DESCRIPTION</LocID>                <Text>Computed tomography scan is diagnostic imaging method/technique that creates detailed images of internal organs, tissues, blood vessels.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_CT_DESCRIPTION</LocID>                <Text>การเอกซเรย์คอมพิวเตอร์เป็นวิธีหรือเทคนิคการถ่ายภาพเพื่อการวินิจฉัยโดยจะสร้างภาพรายละเอียดของอวัยวะภายใน เนื้อเยื่อ หลอดเลือด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_MRI</LocID>                           <Text>MRI</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_MRI_DESCRIPTION</LocID>               <Text>Magnetic resonance imaging creates detailed images of the body using magnetic field and radio waves technique.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_ANGIOGRAPH</LocID>                 <Text>Angiograph</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_MRI_DESCRIPTION</LocID>               <Text>การตรวจด้วยคลื่นแม่เหล็กไฟฟ้าจะสร้างภาพที่มีรายละเอียดของร่างกายโดยใช้เทคนิคสนามแม่เหล็กและคลื่นวิทยุ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_ANGIOGRAPH</LocID>                 <Text>การตรวจวินิจฉัยหลอดเลือด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_ANGIOGRAPH_DESCRIPTION</LocID>     <Text>Angiography machine provides technique also called arteriography that visualize inside of the blood vessels and organs of the body.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_GP_OFFICE_SIMPLE_ABBR</LocID>            <Text>Doctor's office - 6 x 4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_X_RAY_ABBR</LocID>                       <Text>X-ray room - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_ANGIOGRAPHY_ABBR</LocID>                 <Text>CAG room - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CT_ABBR</LocID>                          <Text>CT room - 10 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_MRI_ABBR</LocID>                         <Text>MRI room - 10 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_X_RAY_ABBR</LocID>                       <Text>ห้อง X-ray - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_ANGIOGRAPHY_ABBR</LocID>                 <Text>ห้อง CAG - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CT_ABBR</LocID>                          <Text>ห้อง CT - 10 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_MRI_ABBR</LocID>                         <Text>ห้อง MRI - 10 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_COMMON_ROOM_ABBR</LocID>                 <Text>Common room - 8 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_GP_OFFICE_LARGE_ABBR</LocID>             <Text>Doctor's office - 6 x 8</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_GP_OFFICE_SMALL_ABBR</LocID>             <Text>Doctor's office - 6 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_WAITING_ROOM_LARGE_ABBR</LocID>          <Text>Waiting room - 6 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_WAITING_ROOM_SMALL_ABBR</LocID>          <Text>Waiting room - 8 x 4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_RESTROOM_ABBR</LocID>                    <Text>Restroom - 6 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_RESTROOM_SMALL_ABBR</LocID>              <Text>Restroom - 6 x 4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CORRIDOR_LARGE_ABBR</LocID>              <Text>Corridor - 12 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CORRIDOR_SMALL_ABBR</LocID>              <Text>Corridor - 12 x 4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_RECEPTION_LARGE_ABBR</LocID>             <Text>Reception - 6 x 16</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_RECEPTION_SMALL_ABBR</LocID>             <Text>Reception - 6 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_WAITING_ROOM_LARGE_ABBR</LocID>          <Text>ห้องรับรอง - 6 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_WAITING_ROOM_SMALL_ABBR</LocID>          <Text>ห้องรับรอง - 8 x 4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_RESTROOM_ABBR</LocID>                    <Text>ห้องน้ำ - 6 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_RESTROOM_SMALL_ABBR</LocID>              <Text>ห้องน้ำ - 6 x 4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CORRIDOR_LARGE_ABBR</LocID>              <Text>ทางเดิน - 12 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CORRIDOR_SMALL_ABBR</LocID>              <Text>ทางเดิน - 12 x 4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_RECEPTION_LARGE_ABBR</LocID>             <Text>ประชาสัมพันธ์ - 6 x 16</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_RECEPTION_SMALL_ABBR</LocID>             <Text>ประชาสัมพันธ์ - 6 x 6</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_ON_CALL_ROOM_LARGE_ABBR</LocID>          <Text>On-call room - 10 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_ON_CALL_ROOM_SMALL_ABBR</LocID>          <Text>On-call room - 8 x 6</Text>  </GameDBLocalizedString>
@@ -722,14 +722,14 @@
 
             <!--UPDATED--><GameDBLocalizedString>      <LocID>PREFAB_ROOM_NEUROLAB_NE_ABBR</LocID>      <Text>Neuroexam unit - 6 x 6</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OPERATING_THEATRE_GS_ABBR</LocID>           <Text>Operating room - 12 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OPERATING_THEATRE_IM_ABBR</LocID>           <Text>Operating room - 12 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OPERATING_THEATRE_OT_ABBR</LocID>           <Text>Operating room - 12 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OPERATING_THEATRE_CAR_ABBR</LocID>           <Text>Operating room - 12 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OPERATING_THEATRE_NE_ABBR</LocID>           <Text>Operating room - 12 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OPERATING_THEATRE_GS_ABBR</LocID>           <Text>ห้องผ่าตัด - 12 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OPERATING_THEATRE_IM_ABBR</LocID>           <Text>ห้องผ่าตัด - 12 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OPERATING_THEATRE_OT_ABBR</LocID>           <Text>ห้องผ่าตัด - 12 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OPERATING_THEATRE_CAR_ABBR</LocID>           <Text>ห้องผ่าตัด - 12 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OPERATING_THEATRE_NE_ABBR</LocID>           <Text>ห้องผ่าตัด - 12 x 6</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ALLOWED</LocID>                                     <Text>สามารถวางที่นี่</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ALLOWED_ROOM</LocID>                                <Text>can be placed here.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ALLOWED_ROOM</LocID>                                <Text>สามารถวางที่นี่</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ALLOWED_CROPS_ROOM</LocID>                          <Text>can be placed here, but will crop another room.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_BLOCKED</LocID>                         <Text>is blocked by another object.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_BLOCKED_ALREADY_PLACED</LocID>          <Text>has been already placed here.</Text>  </GameDBLocalizedString>
@@ -742,7 +742,7 @@
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_ONLY_OUTDOORS</LocID>                   <Text>can be only placed outdoors.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_LOCKED_AREA</LocID>                     <Text>can't be placed outside of hospital property.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>MISSING_REQUIREMENT</LocID>                         <Text>(missing requirement)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>CONNECTED</LocID>                                   <Text>can be placed here (connected).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CONNECTED</LocID>                                   <Text>สามารถวางที่นี่ (connected).</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SIZE_REQUIREMENT_NOT_MATCHED</LocID>                <Text>needs to have minimum size:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_BLOCKED_ROOM</LocID>                    <Text>is blocked by another room.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ALLOWED_NOT_ACCESSIBLE</LocID>                      <Text>can be placed here, but won't be usable.</Text>  </GameDBLocalizedString>
